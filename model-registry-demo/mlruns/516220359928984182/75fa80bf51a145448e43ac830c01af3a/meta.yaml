@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/netrakc/Desktop/MLOPS/model-registry-demo/mlruns/516220359928984182/75fa80bf51a145448e43ac830c01af3a/artifacts
+end_time: 1735245289328
+entry_point_name: ''
+experiment_id: '516220359928984182'
+lifecycle_stage: active
+run_id: 75fa80bf51a145448e43ac830c01af3a
+run_name: languid-cat-33
+run_uuid: 75fa80bf51a145448e43ac830c01af3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735245289286
+status: 3
+tags: []
+user_id: netrakc

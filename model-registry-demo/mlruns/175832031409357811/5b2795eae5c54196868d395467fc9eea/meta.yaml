@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/netrakc/Desktop/MLOPS/model-registry-demo/mlruns/175832031409357811/5b2795eae5c54196868d395467fc9eea/artifacts
+end_time: 1735242954760
+entry_point_name: ''
+experiment_id: '175832031409357811'
+lifecycle_stage: active
+run_id: 5b2795eae5c54196868d395467fc9eea
+run_name: ambitious-goose-988
+run_uuid: 5b2795eae5c54196868d395467fc9eea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735242954728
+status: 3
+tags: []
+user_id: netrakc

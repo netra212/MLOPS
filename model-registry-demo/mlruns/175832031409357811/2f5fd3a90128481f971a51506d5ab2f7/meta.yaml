@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/netrakc/Desktop/MLOPS/model-registry-demo/mlruns/175832031409357811/2f5fd3a90128481f971a51506d5ab2f7/artifacts
+end_time: 1735244739993
+entry_point_name: ''
+experiment_id: '175832031409357811'
+lifecycle_stage: active
+run_id: 2f5fd3a90128481f971a51506d5ab2f7
+run_name: zealous-cod-320
+run_uuid: 2f5fd3a90128481f971a51506d5ab2f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735244739957
+status: 3
+tags: []
+user_id: netrakc

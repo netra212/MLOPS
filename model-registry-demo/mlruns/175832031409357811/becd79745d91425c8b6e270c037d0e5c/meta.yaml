@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/netrakc/Desktop/MLOPS/model-registry-demo/mlruns/175832031409357811/becd79745d91425c8b6e270c037d0e5c/artifacts
+end_time: 1735242954928
+entry_point_name: ''
+experiment_id: '175832031409357811'
+lifecycle_stage: active
+run_id: becd79745d91425c8b6e270c037d0e5c
+run_name: zealous-sloth-176
+run_uuid: becd79745d91425c8b6e270c037d0e5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735242954899
+status: 3
+tags: []
+user_id: netrakc

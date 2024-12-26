@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/netrakc/Desktop/MLOPS/model-registry-demo/mlruns/516220359928984182/894b94e2cc9141ba84be16f53e1d36d0/artifacts
+end_time: 1735245288606
+entry_point_name: ''
+experiment_id: '516220359928984182'
+lifecycle_stage: active
+run_id: 894b94e2cc9141ba84be16f53e1d36d0
+run_name: bald-sloth-385
+run_uuid: 894b94e2cc9141ba84be16f53e1d36d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735245288559
+status: 3
+tags: []
+user_id: netrakc

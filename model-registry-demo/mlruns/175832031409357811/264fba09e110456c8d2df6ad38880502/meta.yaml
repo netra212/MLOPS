@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/netrakc/Desktop/MLOPS/model-registry-demo/mlruns/175832031409357811/264fba09e110456c8d2df6ad38880502/artifacts
+end_time: 1735242954968
+entry_point_name: ''
+experiment_id: '175832031409357811'
+lifecycle_stage: active
+run_id: 264fba09e110456c8d2df6ad38880502
+run_name: legendary-bass-889
+run_uuid: 264fba09e110456c8d2df6ad38880502
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735242954935
+status: 3
+tags: []
+user_id: netrakc

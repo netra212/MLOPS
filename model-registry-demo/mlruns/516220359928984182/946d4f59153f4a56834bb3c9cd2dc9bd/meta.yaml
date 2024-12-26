@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/netrakc/Desktop/MLOPS/model-registry-demo/mlruns/516220359928984182/946d4f59153f4a56834bb3c9cd2dc9bd/artifacts
+end_time: 1735245288658
+entry_point_name: ''
+experiment_id: '516220359928984182'
+lifecycle_stage: active
+run_id: 946d4f59153f4a56834bb3c9cd2dc9bd
+run_name: secretive-crane-319
+run_uuid: 946d4f59153f4a56834bb3c9cd2dc9bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735245288613
+status: 3
+tags: []
+user_id: netrakc

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/netrakc/Desktop/MLOPS/model-registry-demo/mlruns/175832031409357811/c4220e6b2af945b8a869ef93a727fc98/artifacts
+end_time: 1735242954825
+entry_point_name: ''
+experiment_id: '175832031409357811'
+lifecycle_stage: active
+run_id: c4220e6b2af945b8a869ef93a727fc98
+run_name: enthused-fawn-633
+run_uuid: c4220e6b2af945b8a869ef93a727fc98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735242954796
+status: 3
+tags: []
+user_id: netrakc

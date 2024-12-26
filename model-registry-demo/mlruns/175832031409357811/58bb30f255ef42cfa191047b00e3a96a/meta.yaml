@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/netrakc/Desktop/MLOPS/model-registry-demo/mlruns/175832031409357811/58bb30f255ef42cfa191047b00e3a96a/artifacts
+end_time: 1735244739950
+entry_point_name: ''
+experiment_id: '175832031409357811'
+lifecycle_stage: active
+run_id: 58bb30f255ef42cfa191047b00e3a96a
+run_name: honorable-boar-95
+run_uuid: 58bb30f255ef42cfa191047b00e3a96a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735244739914
+status: 3
+tags: []
+user_id: netrakc

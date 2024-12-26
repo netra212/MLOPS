@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/netrakc/Desktop/MLOPS/model-registry-demo/mlruns/175832031409357811/050e60074040407580f1451dcb2affdb/artifacts
+end_time: 1735244740289
+entry_point_name: ''
+experiment_id: '175832031409357811'
+lifecycle_stage: active
+run_id: 050e60074040407580f1451dcb2affdb
+run_name: casual-doe-380
+run_uuid: 050e60074040407580f1451dcb2affdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735244740255
+status: 3
+tags: []
+user_id: netrakc

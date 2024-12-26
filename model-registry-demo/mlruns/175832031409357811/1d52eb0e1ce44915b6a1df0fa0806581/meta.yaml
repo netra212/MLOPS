@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/netrakc/Desktop/MLOPS/model-registry-demo/mlruns/175832031409357811/1d52eb0e1ce44915b6a1df0fa0806581/artifacts
+end_time: 1735244109205
+entry_point_name: ''
+experiment_id: '175832031409357811'
+lifecycle_stage: active
+run_id: 1d52eb0e1ce44915b6a1df0fa0806581
+run_name: peaceful-kite-874
+run_uuid: 1d52eb0e1ce44915b6a1df0fa0806581
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735244109170
+status: 3
+tags: []
+user_id: netrakc

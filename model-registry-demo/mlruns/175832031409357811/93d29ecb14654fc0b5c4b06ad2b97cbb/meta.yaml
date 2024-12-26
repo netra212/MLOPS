@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/netrakc/Desktop/MLOPS/model-registry-demo/mlruns/175832031409357811/93d29ecb14654fc0b5c4b06ad2b97cbb/artifacts
+end_time: 1735244109165
+entry_point_name: ''
+experiment_id: '175832031409357811'
+lifecycle_stage: active
+run_id: 93d29ecb14654fc0b5c4b06ad2b97cbb
+run_name: clumsy-sow-817
+run_uuid: 93d29ecb14654fc0b5c4b06ad2b97cbb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735244109132
+status: 3
+tags: []
+user_id: netrakc

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/netrakc/Desktop/MLOPS/model-registry-demo/mlruns/175832031409357811/429013811580413e9821732f7ce8f2d5/artifacts
+end_time: 1735242961736
+entry_point_name: ''
+experiment_id: '175832031409357811'
+lifecycle_stage: active
+run_id: 429013811580413e9821732f7ce8f2d5
+run_name: burly-crow-557
+run_uuid: 429013811580413e9821732f7ce8f2d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735242939297
+status: 3
+tags: []
+user_id: netrakc

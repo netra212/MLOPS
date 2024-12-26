@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/netrakc/Desktop/MLOPS/model-registry-demo/mlruns/175832031409357811/52ddc1a83b6849d6b4c10836e464d506/artifacts
+end_time: 1735242954454
+entry_point_name: ''
+experiment_id: '175832031409357811'
+lifecycle_stage: active
+run_id: 52ddc1a83b6849d6b4c10836e464d506
+run_name: casual-jay-163
+run_uuid: 52ddc1a83b6849d6b4c10836e464d506
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735242954422
+status: 3
+tags: []
+user_id: netrakc

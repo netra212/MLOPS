@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/netrakc/Desktop/MLOPS/model-registry-demo/mlruns/175832031409357811/2514e2ec6c424978bc2b8d2371e07299/artifacts
+end_time: 1735244739824
+entry_point_name: ''
+experiment_id: '175832031409357811'
+lifecycle_stage: active
+run_id: 2514e2ec6c424978bc2b8d2371e07299
+run_name: debonair-kite-109
+run_uuid: 2514e2ec6c424978bc2b8d2371e07299
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735244739782
+status: 3
+tags: []
+user_id: netrakc

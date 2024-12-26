@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/netrakc/Desktop/MLOPS/model-registry-demo/mlruns/175832031409357811/f8a92860b0c44e0797fe8c76f81ba25d/artifacts
+end_time: 1735244740209
+entry_point_name: ''
+experiment_id: '175832031409357811'
+lifecycle_stage: active
+run_id: f8a92860b0c44e0797fe8c76f81ba25d
+run_name: clumsy-gull-266
+run_uuid: f8a92860b0c44e0797fe8c76f81ba25d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735244740173
+status: 3
+tags: []
+user_id: netrakc

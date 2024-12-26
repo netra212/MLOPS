@@ -1,0 +1,6 @@
+artifact_location: file:///Users/netrakc/Desktop/MLOPS/model-registry-demo/mlruns/516220359928984182
+creation_time: 1735245270834
+experiment_id: '516220359928984182'
+last_update_time: 1735245270834
+lifecycle_stage: active
+name: diabetes-rf

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/netrakc/Desktop/MLOPS/model-registry-demo/mlruns/175832031409357811/3a29eb0a40ba46bc8d72cee61e9507a4/artifacts
+end_time: 1735244739908
+entry_point_name: ''
+experiment_id: '175832031409357811'
+lifecycle_stage: active
+run_id: 3a29eb0a40ba46bc8d72cee61e9507a4
+run_name: righteous-conch-921
+run_uuid: 3a29eb0a40ba46bc8d72cee61e9507a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735244739872
+status: 3
+tags: []
+user_id: netrakc

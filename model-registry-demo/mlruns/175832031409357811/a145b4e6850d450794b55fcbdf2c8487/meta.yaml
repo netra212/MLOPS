@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/netrakc/Desktop/MLOPS/model-registry-demo/mlruns/175832031409357811/a145b4e6850d450794b55fcbdf2c8487/artifacts
+end_time: 1735244117841
+entry_point_name: ''
+experiment_id: '175832031409357811'
+lifecycle_stage: active
+run_id: a145b4e6850d450794b55fcbdf2c8487
+run_name: colorful-slug-647
+run_uuid: a145b4e6850d450794b55fcbdf2c8487
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735244090613
+status: 3
+tags: []
+user_id: netrakc

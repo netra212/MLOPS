@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/netrakc/Desktop/MLOPS/model-registry-demo/mlruns/175832031409357811/8581419128784228a6625b727c14a43e/artifacts
+end_time: 1735242954355
+entry_point_name: ''
+experiment_id: '175832031409357811'
+lifecycle_stage: active
+run_id: 8581419128784228a6625b727c14a43e
+run_name: valuable-stork-906
+run_uuid: 8581419128784228a6625b727c14a43e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735242954331
+status: 3
+tags: []
+user_id: netrakc

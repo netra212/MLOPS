@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/netrakc/Desktop/MLOPS/model-registry-demo/mlruns/516220359928984182/7d1c0d3f9ac14effab07704ed90a5b38/artifacts
+end_time: 1735245289279
+entry_point_name: ''
+experiment_id: '516220359928984182'
+lifecycle_stage: active
+run_id: 7d1c0d3f9ac14effab07704ed90a5b38
+run_name: melodic-penguin-552
+run_uuid: 7d1c0d3f9ac14effab07704ed90a5b38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735245289234
+status: 3
+tags: []
+user_id: netrakc

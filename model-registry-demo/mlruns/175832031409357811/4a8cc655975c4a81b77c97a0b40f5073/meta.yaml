@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/netrakc/Desktop/MLOPS/model-registry-demo/mlruns/175832031409357811/4a8cc655975c4a81b77c97a0b40f5073/artifacts
+end_time: 1735244109447
+entry_point_name: ''
+experiment_id: '175832031409357811'
+lifecycle_stage: active
+run_id: 4a8cc655975c4a81b77c97a0b40f5073
+run_name: monumental-grub-174
+run_uuid: 4a8cc655975c4a81b77c97a0b40f5073
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735244109411
+status: 3
+tags: []
+user_id: netrakc

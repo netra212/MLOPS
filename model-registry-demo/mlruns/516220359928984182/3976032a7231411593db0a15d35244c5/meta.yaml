@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/netrakc/Desktop/MLOPS/model-registry-demo/mlruns/516220359928984182/3976032a7231411593db0a15d35244c5/artifacts
+end_time: 1735245288757
+entry_point_name: ''
+experiment_id: '516220359928984182'
+lifecycle_stage: active
+run_id: 3976032a7231411593db0a15d35244c5
+run_name: resilient-cub-759
+run_uuid: 3976032a7231411593db0a15d35244c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735245288715
+status: 3
+tags: []
+user_id: netrakc

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/netrakc/Desktop/MLOPS/model-registry-demo/mlruns/175832031409357811/eb54655a23fd4a6fab2bf2565fc932c5/artifacts
+end_time: 1735244108841
+entry_point_name: ''
+experiment_id: '175832031409357811'
+lifecycle_stage: active
+run_id: eb54655a23fd4a6fab2bf2565fc932c5
+run_name: fearless-kit-961
+run_uuid: eb54655a23fd4a6fab2bf2565fc932c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735244108809
+status: 3
+tags: []
+user_id: netrakc

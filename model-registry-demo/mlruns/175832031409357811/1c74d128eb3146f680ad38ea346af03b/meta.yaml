@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/netrakc/Desktop/MLOPS/model-registry-demo/mlruns/175832031409357811/1c74d128eb3146f680ad38ea346af03b/artifacts
+end_time: 1735244739868
+entry_point_name: ''
+experiment_id: '175832031409357811'
+lifecycle_stage: active
+run_id: 1c74d128eb3146f680ad38ea346af03b
+run_name: wise-smelt-894
+run_uuid: 1c74d128eb3146f680ad38ea346af03b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735244739830
+status: 3
+tags: []
+user_id: netrakc

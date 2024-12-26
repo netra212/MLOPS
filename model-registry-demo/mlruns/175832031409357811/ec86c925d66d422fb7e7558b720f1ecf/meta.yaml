@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/netrakc/Desktop/MLOPS/model-registry-demo/mlruns/175832031409357811/ec86c925d66d422fb7e7558b720f1ecf/artifacts
+end_time: 1735244740169
+entry_point_name: ''
+experiment_id: '175832031409357811'
+lifecycle_stage: active
+run_id: ec86c925d66d422fb7e7558b720f1ecf
+run_name: brawny-kit-727
+run_uuid: ec86c925d66d422fb7e7558b720f1ecf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735244740132
+status: 3
+tags: []
+user_id: netrakc

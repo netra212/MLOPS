@@ -1,0 +1,6 @@
+aliases: {}
+creation_timestamp: 1735243546274
+description: This model implements the random forest as base algorithms to train on
+  the PIM Indian Dataset
+last_updated_timestamp: 1735245445751
+name: diabetes-rf

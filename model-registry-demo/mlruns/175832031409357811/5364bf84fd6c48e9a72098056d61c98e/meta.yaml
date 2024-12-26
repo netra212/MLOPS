@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/netrakc/Desktop/MLOPS/model-registry-demo/mlruns/175832031409357811/5364bf84fd6c48e9a72098056d61c98e/artifacts
+end_time: 1735244108725
+entry_point_name: ''
+experiment_id: '175832031409357811'
+lifecycle_stage: active
+run_id: 5364bf84fd6c48e9a72098056d61c98e
+run_name: angry-snipe-590
+run_uuid: 5364bf84fd6c48e9a72098056d61c98e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735244108696
+status: 3
+tags: []
+user_id: netrakc

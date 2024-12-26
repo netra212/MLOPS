@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/netrakc/Desktop/MLOPS/model-registry-demo/mlruns/175832031409357811/6d504569db434d2ab7ffb7df1a336e6a/artifacts
+end_time: 1735244108803
+entry_point_name: ''
+experiment_id: '175832031409357811'
+lifecycle_stage: active
+run_id: 6d504569db434d2ab7ffb7df1a336e6a
+run_name: painted-mare-632
+run_uuid: 6d504569db434d2ab7ffb7df1a336e6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735244108768
+status: 3
+tags: []
+user_id: netrakc

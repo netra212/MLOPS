@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/netrakc/Desktop/MLOPS/model-registry-demo/mlruns/175832031409357811/0094f6c9c798419c99bac2de9ff79b83/artifacts
+end_time: 1735244740032
+entry_point_name: ''
+experiment_id: '175832031409357811'
+lifecycle_stage: active
+run_id: 0094f6c9c798419c99bac2de9ff79b83
+run_name: bald-penguin-413
+run_uuid: 0094f6c9c798419c99bac2de9ff79b83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735244739999
+status: 3
+tags: []
+user_id: netrakc

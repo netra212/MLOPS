@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/netrakc/Desktop/MLOPS/model-registry-demo/mlruns/516220359928984182/15a1a139f93048fc9efa0da339c075d3/artifacts
+end_time: 1735245288709
+entry_point_name: ''
+experiment_id: '516220359928984182'
+lifecycle_stage: active
+run_id: 15a1a139f93048fc9efa0da339c075d3
+run_name: gentle-snail-996
+run_uuid: 15a1a139f93048fc9efa0da339c075d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735245288665
+status: 3
+tags: []
+user_id: netrakc

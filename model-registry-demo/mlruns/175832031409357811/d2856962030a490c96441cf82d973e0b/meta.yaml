@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/netrakc/Desktop/MLOPS/model-registry-demo/mlruns/175832031409357811/d2856962030a490c96441cf82d973e0b/artifacts
+end_time: 1735242954861
+entry_point_name: ''
+experiment_id: '175832031409357811'
+lifecycle_stage: active
+run_id: d2856962030a490c96441cf82d973e0b
+run_name: efficient-fly-900
+run_uuid: d2856962030a490c96441cf82d973e0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735242954828
+status: 3
+tags: []
+user_id: netrakc

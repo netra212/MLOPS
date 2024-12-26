@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/netrakc/Desktop/MLOPS/model-registry-demo/mlruns/175832031409357811/1a3fb099fceb4db8b16db086f1877bd0/artifacts
+end_time: 1735242954522
+entry_point_name: ''
+experiment_id: '175832031409357811'
+lifecycle_stage: active
+run_id: 1a3fb099fceb4db8b16db086f1877bd0
+run_name: righteous-ram-529
+run_uuid: 1a3fb099fceb4db8b16db086f1877bd0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735242954492
+status: 3
+tags: []
+user_id: netrakc

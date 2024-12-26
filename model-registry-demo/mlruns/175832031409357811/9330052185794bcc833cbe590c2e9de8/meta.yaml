@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/netrakc/Desktop/MLOPS/model-registry-demo/mlruns/175832031409357811/9330052185794bcc833cbe590c2e9de8/artifacts
+end_time: 1735244739481
+entry_point_name: ''
+experiment_id: '175832031409357811'
+lifecycle_stage: active
+run_id: 9330052185794bcc833cbe590c2e9de8
+run_name: marvelous-gnu-39
+run_uuid: 9330052185794bcc833cbe590c2e9de8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735244739453
+status: 3
+tags: []
+user_id: netrakc

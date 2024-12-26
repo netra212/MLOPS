@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/netrakc/Desktop/MLOPS/model-registry-demo/mlruns/516220359928984182/ed9ec10406f44c22ad82374967151ebd/artifacts
+end_time: 1735245288807
+entry_point_name: ''
+experiment_id: '516220359928984182'
+lifecycle_stage: active
+run_id: ed9ec10406f44c22ad82374967151ebd
+run_name: awesome-zebra-428
+run_uuid: ed9ec10406f44c22ad82374967151ebd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735245288763
+status: 3
+tags: []
+user_id: netrakc

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/netrakc/Desktop/MLOPS/model-registry-demo/mlruns/175832031409357811/473b98df8f174e26868b5c235777a493/artifacts
+end_time: 1735242955005
+entry_point_name: ''
+experiment_id: '175832031409357811'
+lifecycle_stage: active
+run_id: 473b98df8f174e26868b5c235777a493
+run_name: indecisive-zebra-354
+run_uuid: 473b98df8f174e26868b5c235777a493
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735242954972
+status: 3
+tags: []
+user_id: netrakc

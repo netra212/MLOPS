@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/netrakc/Desktop/MLOPS/model-registry-demo/mlruns/175832031409357811/3cbc430e6b614e9e94c5163072484479/artifacts
+end_time: 1735244109075
+entry_point_name: ''
+experiment_id: '175832031409357811'
+lifecycle_stage: active
+run_id: 3cbc430e6b614e9e94c5163072484479
+run_name: amusing-pig-848
+run_uuid: 3cbc430e6b614e9e94c5163072484479
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735244109039
+status: 3
+tags: []
+user_id: netrakc

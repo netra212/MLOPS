@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/netrakc/Desktop/MLOPS/model-registry-demo/mlruns/516220359928984182/fc2d06c561214770b188aaf4012a46e2/artifacts
+end_time: 1735245288857
+entry_point_name: ''
+experiment_id: '516220359928984182'
+lifecycle_stage: active
+run_id: fc2d06c561214770b188aaf4012a46e2
+run_name: likeable-donkey-43
+run_uuid: fc2d06c561214770b188aaf4012a46e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735245288814
+status: 3
+tags: []
+user_id: netrakc

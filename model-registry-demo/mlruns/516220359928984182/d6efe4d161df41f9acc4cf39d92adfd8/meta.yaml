@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/netrakc/Desktop/MLOPS/model-registry-demo/mlruns/516220359928984182/d6efe4d161df41f9acc4cf39d92adfd8/artifacts
+end_time: 1735245298674
+entry_point_name: ''
+experiment_id: '516220359928984182'
+lifecycle_stage: active
+run_id: d6efe4d161df41f9acc4cf39d92adfd8
+run_name: silent-hare-600
+run_uuid: d6efe4d161df41f9acc4cf39d92adfd8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735245271794
+status: 3
+tags: []
+user_id: netrakc

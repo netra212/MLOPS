@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/netrakc/Desktop/MLOPS/model-registry-demo/mlruns/516220359928984182/c63564307fef430b824bd8799e550a5f/artifacts
+end_time: 1735245289090
+entry_point_name: ''
+experiment_id: '516220359928984182'
+lifecycle_stage: active
+run_id: c63564307fef430b824bd8799e550a5f
+run_name: upset-snake-695
+run_uuid: c63564307fef430b824bd8799e550a5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735245289048
+status: 3
+tags: []
+user_id: netrakc

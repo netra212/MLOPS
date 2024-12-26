@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/netrakc/Desktop/MLOPS/model-registry-demo/mlruns/175832031409357811/16e393d98a73470a95383f41e68df00e/artifacts
+end_time: 1735244739520
+entry_point_name: ''
+experiment_id: '175832031409357811'
+lifecycle_stage: active
+run_id: 16e393d98a73470a95383f41e68df00e
+run_name: honorable-ray-322
+run_uuid: 16e393d98a73470a95383f41e68df00e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735244739487
+status: 3
+tags: []
+user_id: netrakc

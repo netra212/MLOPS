@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1735243546316
+current_stage: Archived
+description: This model was created busing Grid Search.
+last_updated_timestamp: 1735244508005
+name: diabetes-rf
+run_id: 429013811580413e9821732f7ce8f2d5
+run_link: ''
+source: file:///Users/netrakc/Desktop/MLOPS/model-registry-demo/mlruns/175832031409357811/429013811580413e9821732f7ce8f2d5/artifacts/random_forest
+status: READY
+status_message: null
+storage_location: file:///Users/netrakc/Desktop/MLOPS/model-registry-demo/mlruns/175832031409357811/429013811580413e9821732f7ce8f2d5/artifacts/random_forest
+user_id: null
+version: 1

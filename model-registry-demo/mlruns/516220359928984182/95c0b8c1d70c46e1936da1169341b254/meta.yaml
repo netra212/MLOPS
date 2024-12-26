@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/netrakc/Desktop/MLOPS/model-registry-demo/mlruns/516220359928984182/95c0b8c1d70c46e1936da1169341b254/artifacts
+end_time: 1735245289386
+entry_point_name: ''
+experiment_id: '516220359928984182'
+lifecycle_stage: active
+run_id: 95c0b8c1d70c46e1936da1169341b254
+run_name: popular-fish-377
+run_uuid: 95c0b8c1d70c46e1936da1169341b254
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735245289335
+status: 3
+tags: []
+user_id: netrakc

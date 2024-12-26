@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/netrakc/Desktop/MLOPS/model-registry-demo/mlruns/175832031409357811/e7863643617442de80db27a6d9e120be/artifacts
+end_time: 1735244739569
+entry_point_name: ''
+experiment_id: '175832031409357811'
+lifecycle_stage: active
+run_id: e7863643617442de80db27a6d9e120be
+run_name: fortunate-ram-781
+run_uuid: e7863643617442de80db27a6d9e120be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735244739524
+status: 3
+tags: []
+user_id: netrakc

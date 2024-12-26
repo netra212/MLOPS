@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/netrakc/Desktop/MLOPS/model-registry-demo/mlruns/175832031409357811/70ba5cf1f67b4b8faa0ba7b6d6d1dc0f/artifacts
+end_time: 1735242954487
+entry_point_name: ''
+experiment_id: '175832031409357811'
+lifecycle_stage: active
+run_id: 70ba5cf1f67b4b8faa0ba7b6d6d1dc0f
+run_name: orderly-cow-884
+run_uuid: 70ba5cf1f67b4b8faa0ba7b6d6d1dc0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735242954460
+status: 3
+tags: []
+user_id: netrakc

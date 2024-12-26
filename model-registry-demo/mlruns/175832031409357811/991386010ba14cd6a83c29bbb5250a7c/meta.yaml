@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/netrakc/Desktop/MLOPS/model-registry-demo/mlruns/175832031409357811/991386010ba14cd6a83c29bbb5250a7c/artifacts
+end_time: 1735244739618
+entry_point_name: ''
+experiment_id: '175832031409357811'
+lifecycle_stage: active
+run_id: 991386010ba14cd6a83c29bbb5250a7c
+run_name: welcoming-bat-202
+run_uuid: 991386010ba14cd6a83c29bbb5250a7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735244739575
+status: 3
+tags: []
+user_id: netrakc

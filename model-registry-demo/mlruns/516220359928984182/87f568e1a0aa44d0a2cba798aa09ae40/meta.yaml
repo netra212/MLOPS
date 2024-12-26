@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/netrakc/Desktop/MLOPS/model-registry-demo/mlruns/516220359928984182/87f568e1a0aa44d0a2cba798aa09ae40/artifacts
+end_time: 1735245289134
+entry_point_name: ''
+experiment_id: '516220359928984182'
+lifecycle_stage: active
+run_id: 87f568e1a0aa44d0a2cba798aa09ae40
+run_name: smiling-dove-269
+run_uuid: 87f568e1a0aa44d0a2cba798aa09ae40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735245289095
+status: 3
+tags: []
+user_id: netrakc

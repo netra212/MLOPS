@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/netrakc/Desktop/MLOPS/model-registry-demo/mlruns/175832031409357811/ff7edd0035044be5978b302fe83f9a28/artifacts
+end_time: 1735244109364
+entry_point_name: ''
+experiment_id: '175832031409357811'
+lifecycle_stage: active
+run_id: ff7edd0035044be5978b302fe83f9a28
+run_name: bedecked-penguin-770
+run_uuid: ff7edd0035044be5978b302fe83f9a28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735244109326
+status: 3
+tags: []
+user_id: netrakc

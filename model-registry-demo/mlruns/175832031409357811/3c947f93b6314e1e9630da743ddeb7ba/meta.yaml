@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/netrakc/Desktop/MLOPS/model-registry-demo/mlruns/175832031409357811/3c947f93b6314e1e9630da743ddeb7ba/artifacts
+end_time: 1735244109242
+entry_point_name: ''
+experiment_id: '175832031409357811'
+lifecycle_stage: active
+run_id: 3c947f93b6314e1e9630da743ddeb7ba
+run_name: learned-donkey-489
+run_uuid: 3c947f93b6314e1e9630da743ddeb7ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735244109209
+status: 3
+tags: []
+user_id: netrakc

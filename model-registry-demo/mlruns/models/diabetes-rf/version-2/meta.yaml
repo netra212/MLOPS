@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1735244211731
+current_stage: Production
+description: 'Random Forest have been implemented for this PIMA Indian Dataset. '
+last_updated_timestamp: 1735244508005
+name: diabetes-rf
+run_id: a145b4e6850d450794b55fcbdf2c8487
+run_link: ''
+source: file:///Users/netrakc/Desktop/MLOPS/model-registry-demo/mlruns/175832031409357811/a145b4e6850d450794b55fcbdf2c8487/artifacts/random_forest
+status: READY
+status_message: null
+storage_location: file:///Users/netrakc/Desktop/MLOPS/model-registry-demo/mlruns/175832031409357811/a145b4e6850d450794b55fcbdf2c8487/artifacts/random_forest
+user_id: null
+version: 2

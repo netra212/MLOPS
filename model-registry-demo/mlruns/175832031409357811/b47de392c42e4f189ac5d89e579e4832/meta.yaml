@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/netrakc/Desktop/MLOPS/model-registry-demo/mlruns/175832031409357811/b47de392c42e4f189ac5d89e579e4832/artifacts
+end_time: 1735242954555
+entry_point_name: ''
+experiment_id: '175832031409357811'
+lifecycle_stage: active
+run_id: b47de392c42e4f189ac5d89e579e4832
+run_name: bouncy-hare-471
+run_uuid: b47de392c42e4f189ac5d89e579e4832
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735242954525
+status: 3
+tags: []
+user_id: netrakc
