@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/netrakc/Desktop/MLOPS/advanced-mlflow/mlruns/306022396742359483/d784026613654901a4867d9a2a4debd7/artifacts
+end_time: 1735238321668
+entry_point_name: ''
+experiment_id: '306022396742359483'
+lifecycle_stage: active
+run_id: d784026613654901a4867d9a2a4debd7
+run_name: tasteful-cod-377
+run_uuid: d784026613654901a4867d9a2a4debd7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735238321633
+status: 3
+tags: []
+user_id: netrakc

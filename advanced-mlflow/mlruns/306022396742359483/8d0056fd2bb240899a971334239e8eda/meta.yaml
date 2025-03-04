@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/netrakc/Desktop/MLOPS/advanced-mlflow/mlruns/306022396742359483/8d0056fd2bb240899a971334239e8eda/artifacts
+end_time: 1735238321832
+entry_point_name: ''
+experiment_id: '306022396742359483'
+lifecycle_stage: active
+run_id: 8d0056fd2bb240899a971334239e8eda
+run_name: thoughtful-mole-190
+run_uuid: 8d0056fd2bb240899a971334239e8eda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735238321797
+status: 3
+tags: []
+user_id: netrakc

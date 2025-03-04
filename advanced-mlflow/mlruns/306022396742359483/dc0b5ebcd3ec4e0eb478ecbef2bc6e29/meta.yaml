@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/netrakc/Desktop/MLOPS/advanced-mlflow/mlruns/306022396742359483/dc0b5ebcd3ec4e0eb478ecbef2bc6e29/artifacts
+end_time: 1735238321553
+entry_point_name: ''
+experiment_id: '306022396742359483'
+lifecycle_stage: active
+run_id: dc0b5ebcd3ec4e0eb478ecbef2bc6e29
+run_name: blushing-whale-429
+run_uuid: dc0b5ebcd3ec4e0eb478ecbef2bc6e29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735238321519
+status: 3
+tags: []
+user_id: netrakc

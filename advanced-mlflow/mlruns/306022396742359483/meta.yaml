@@ -1,0 +1,6 @@
+artifact_location: file:///Users/netrakc/Desktop/MLOPS/advanced-mlflow/mlruns/306022396742359483
+creation_time: 1735237383757
+experiment_id: '306022396742359483'
+last_update_time: 1735237383757
+lifecycle_stage: active
+name: diabetes-rf-hp

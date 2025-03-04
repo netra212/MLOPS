@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/netrakc/Desktop/MLOPS/advanced-mlflow/mlruns/306022396742359483/bbf0f7930f364f6f8ef6b1c98bcbced9/artifacts
+end_time: 1735238321748
+entry_point_name: ''
+experiment_id: '306022396742359483'
+lifecycle_stage: active
+run_id: bbf0f7930f364f6f8ef6b1c98bcbced9
+run_name: redolent-asp-555
+run_uuid: bbf0f7930f364f6f8ef6b1c98bcbced9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735238321714
+status: 3
+tags: []
+user_id: netrakc

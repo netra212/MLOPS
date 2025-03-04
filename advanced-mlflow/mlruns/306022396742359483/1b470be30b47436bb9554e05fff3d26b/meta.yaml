@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/netrakc/Desktop/MLOPS/advanced-mlflow/mlruns/306022396742359483/1b470be30b47436bb9554e05fff3d26b/artifacts
+end_time: 1735238321628
+entry_point_name: ''
+experiment_id: '306022396742359483'
+lifecycle_stage: active
+run_id: 1b470be30b47436bb9554e05fff3d26b
+run_name: rumbling-shrike-559
+run_uuid: 1b470be30b47436bb9554e05fff3d26b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735238321558
+status: 3
+tags: []
+user_id: netrakc

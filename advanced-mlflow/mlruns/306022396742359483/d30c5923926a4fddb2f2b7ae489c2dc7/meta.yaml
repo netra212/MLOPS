@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/netrakc/Desktop/MLOPS/advanced-mlflow/mlruns/306022396742359483/d30c5923926a4fddb2f2b7ae489c2dc7/artifacts
+end_time: 1735238321428
+entry_point_name: ''
+experiment_id: '306022396742359483'
+lifecycle_stage: active
+run_id: d30c5923926a4fddb2f2b7ae489c2dc7
+run_name: fortunate-gull-719
+run_uuid: d30c5923926a4fddb2f2b7ae489c2dc7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735238321390
+status: 3
+tags: []
+user_id: netrakc

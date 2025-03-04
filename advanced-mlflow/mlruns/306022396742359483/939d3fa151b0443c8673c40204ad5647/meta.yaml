@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/netrakc/Desktop/MLOPS/advanced-mlflow/mlruns/306022396742359483/939d3fa151b0443c8673c40204ad5647/artifacts
+deleted_time: 1735238382754
+end_time: 1735237499697
+entry_point_name: ''
+experiment_id: '306022396742359483'
+lifecycle_stage: deleted
+run_id: 939d3fa151b0443c8673c40204ad5647
+run_name: vaunted-crane-561
+run_uuid: 939d3fa151b0443c8673c40204ad5647
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735237489675
+status: 4
+tags: []
+user_id: netrakc

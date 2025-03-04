@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/netrakc/Desktop/MLOPS/advanced-mlflow/mlruns/306022396742359483/2df6629bf2f945f6ab1e0f5442847f50/artifacts
+end_time: 1735238321346
+entry_point_name: ''
+experiment_id: '306022396742359483'
+lifecycle_stage: active
+run_id: 2df6629bf2f945f6ab1e0f5442847f50
+run_name: upbeat-snail-534
+run_uuid: 2df6629bf2f945f6ab1e0f5442847f50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735238321319
+status: 3
+tags: []
+user_id: netrakc

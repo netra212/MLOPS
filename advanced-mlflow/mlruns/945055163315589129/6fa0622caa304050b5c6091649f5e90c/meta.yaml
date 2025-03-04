@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/netrakc/Desktop/MLOPS/advanced-mlflow/mlruns/945055163315589129/6fa0622caa304050b5c6091649f5e90c/artifacts
+end_time: 1735235807685
+entry_point_name: ''
+experiment_id: '945055163315589129'
+lifecycle_stage: active
+run_id: 6fa0622caa304050b5c6091649f5e90c
+run_name: zealous-mare-712
+run_uuid: 6fa0622caa304050b5c6091649f5e90c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735235807058
+status: 4
+tags: []
+user_id: netrakc

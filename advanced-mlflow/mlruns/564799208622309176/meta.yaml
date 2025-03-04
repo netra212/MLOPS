@@ -1,0 +1,6 @@
+artifact_location: file:///Users/netrakc/Desktop/MLOPS/advanced-mlflow/mlruns/564799208622309176
+creation_time: 1735236418908
+experiment_id: '564799208622309176'
+last_update_time: 1735236418908
+lifecycle_stage: active
+name: iris-rf-2

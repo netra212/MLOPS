@@ -1,0 +1,10 @@
+digest: '86447323'
+name: dataset
+profile: '{"num_rows": 30, "num_elements": 120}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "sepal.length", "required":
+  true}, {"type": "double", "name": "sepal.width", "required": true}, {"type": "double",
+  "name": "petal.length", "required": true}, {"type": "double", "name": "petal.width",
+  "required": true}]}'
+source: '{"tags": {"mlflow.user": "netrakc", "mlflow.source.name": "train_autolog.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "dcdb17f7e61b06371267493e5ed7f9e895ba9977"}}'
+source_type: code

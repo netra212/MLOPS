@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/netrakc/Desktop/MLOPS/advanced-mlflow/mlruns/306022396742359483/3341cdd4f692468980cf474fa8695bbd/artifacts
+end_time: 1735238321384
+entry_point_name: ''
+experiment_id: '306022396742359483'
+lifecycle_stage: active
+run_id: 3341cdd4f692468980cf474fa8695bbd
+run_name: abundant-shad-924
+run_uuid: 3341cdd4f692468980cf474fa8695bbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735238321349
+status: 3
+tags: []
+user_id: netrakc

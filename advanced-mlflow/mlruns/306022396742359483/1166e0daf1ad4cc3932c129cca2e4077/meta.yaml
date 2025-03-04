@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/netrakc/Desktop/MLOPS/advanced-mlflow/mlruns/306022396742359483/1166e0daf1ad4cc3932c129cca2e4077/artifacts
+deleted_time: 1735238382747
+end_time: 1735238284404
+entry_point_name: ''
+experiment_id: '306022396742359483'
+lifecycle_stage: deleted
+run_id: 1166e0daf1ad4cc3932c129cca2e4077
+run_name: grid-search
+run_uuid: 1166e0daf1ad4cc3932c129cca2e4077
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735238273255
+status: 4
+tags: []
+user_id: netrakc

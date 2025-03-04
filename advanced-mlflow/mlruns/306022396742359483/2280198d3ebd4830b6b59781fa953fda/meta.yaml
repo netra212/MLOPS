@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/netrakc/Desktop/MLOPS/advanced-mlflow/mlruns/306022396742359483/2280198d3ebd4830b6b59781fa953fda/artifacts
+end_time: 1735237626353
+entry_point_name: ''
+experiment_id: '306022396742359483'
+lifecycle_stage: active
+run_id: 2280198d3ebd4830b6b59781fa953fda
+run_name: sneaky-tern-808
+run_uuid: 2280198d3ebd4830b6b59781fa953fda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735237608469
+status: 3
+tags: []
+user_id: netrakc

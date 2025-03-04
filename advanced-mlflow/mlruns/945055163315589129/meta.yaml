@@ -1,0 +1,6 @@
+artifact_location: file:///Users/netrakc/Desktop/MLOPS/advanced-mlflow/mlruns/945055163315589129
+creation_time: 1735235806843
+experiment_id: '945055163315589129'
+last_update_time: 1735235806843
+lifecycle_stage: active
+name: iris-dt

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/netrakc/Desktop/MLOPS/advanced-mlflow/mlruns/306022396742359483/d73f5ab17bee43c387c59707760eea8a/artifacts
+end_time: 1735238321472
+entry_point_name: ''
+experiment_id: '306022396742359483'
+lifecycle_stage: active
+run_id: d73f5ab17bee43c387c59707760eea8a
+run_name: sedate-fish-444
+run_uuid: d73f5ab17bee43c387c59707760eea8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735238321435
+status: 3
+tags: []
+user_id: netrakc

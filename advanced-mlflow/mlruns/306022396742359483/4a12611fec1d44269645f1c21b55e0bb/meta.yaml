@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/netrakc/Desktop/MLOPS/advanced-mlflow/mlruns/306022396742359483/4a12611fec1d44269645f1c21b55e0bb/artifacts
+end_time: 1735238321791
+entry_point_name: ''
+experiment_id: '306022396742359483'
+lifecycle_stage: active
+run_id: 4a12611fec1d44269645f1c21b55e0bb
+run_name: efficient-croc-166
+run_uuid: 4a12611fec1d44269645f1c21b55e0bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735238321755
+status: 3
+tags: []
+user_id: netrakc

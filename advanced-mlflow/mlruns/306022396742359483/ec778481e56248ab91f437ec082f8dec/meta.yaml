@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/netrakc/Desktop/MLOPS/advanced-mlflow/mlruns/306022396742359483/ec778481e56248ab91f437ec082f8dec/artifacts
+deleted_time: 1735238382747
+end_time: 1735237396418
+entry_point_name: ''
+experiment_id: '306022396742359483'
+lifecycle_stage: deleted
+run_id: ec778481e56248ab91f437ec082f8dec
+run_name: orderly-bear-242
+run_uuid: ec778481e56248ab91f437ec082f8dec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735237384688
+status: 4
+tags: []
+user_id: netrakc
