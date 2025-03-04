@@ -7,10 +7,10 @@ import mlflow
 client = MlflowClient()
 
 # Replace with the run_id of the run where the model was logged
-run_id = "576ae086dd28496abd08e611e0768f9c"
+run_id = "..."
 
 # Replace with the path to the logged model within the run
-model_path = "file:///Users/netrakc/Desktop/MLOPS/model-registry-demo/mlruns/175832031409357811/576ae086dd28496abd08e611e0768f9c/artifacts/random_forest"
+model_path = "..."
 
 # Construct the model URI
 model_uri = f"runs:/{run_id}/{model_path}"

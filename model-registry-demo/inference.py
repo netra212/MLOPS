@@ -1,5 +1,4 @@
 # inference
-
 import mlflow.pyfunc
 import numpy as np
 
